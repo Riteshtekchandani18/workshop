@@ -1,0 +1,66 @@
+const Data = [
+    {
+        id:1,
+        name: "Maldives",
+        description: "Spain, a country",
+        image: "https://gskworldtravels.com/wp-content/uploads/2023/07/maldives.jpg",
+        price: '$790',
+    },
+    {
+        id:1,
+        name: "Atlantica",
+        description: "Mauritius, an Indian Ocean",
+        image: "https://static.toiimg.com/thumb/msid-83640862,width-748,height-499,resizemode=4,imgsize-157136/.jpg",
+        price: '$590',
+    },
+    {
+        id:1,
+        name: "Landour",
+        description: "Spain, a country",
+        image: "https://i1.wp.com/travelshoebum.com/wp-content/uploads/2019/07/IMG_20190518_093955.jpg?resize=1000%2C750&ssl=1",
+        price: '$790',
+    },
+    {
+        id:1,
+        name: "London",
+        description: "Spain, a country",
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/f5/de/london.jpg?w=700&h=500&s=1",
+        price: '$790',
+    },
+    {
+        id:1,
+        name: "Newzealand",
+        description: "Spain, a country",
+        image: "https://cdn.britannica.com/25/180825-050-B4693350/Wellington-Harbour-New-Zealand.jpg",
+        price: '$790',
+    },
+    {
+        id:1,
+        name: "Oueensland",
+        description: "Mauritius, an Indian Ocean",
+        image: "https://a.cdn-hotels.com/gdcs/production90/d247/15fbc90d-0b55-4736-9f82-1987cd0bcd7f.jpg",
+        price: '$590',
+    },
+    {
+        id:1,
+        name: "Australia",
+        description: "Spain, a country",
+        image: "https://insiderguides.com.au/wp-content/uploads/2016/03/Sydney-1024x558.jpeg",
+        price: '$790',
+    },
+    {
+        id:1,
+        name: "England",
+        description: "Spain, a country",
+        image: "https://i.natgeofe.com/n/4def1048-f5e5-4973-ad3a-e188a97d363f/regents-street-london-england.jpg",
+        price: '$790',
+    },
+    {
+        id:1,
+        name: "Adman and Nicobar",
+        description: "Spain, a country",
+        image: "https://static.theprint.in/wp-content/uploads/2020/08/Untitled-design-2020-08-09T193331.340.jpg",
+        price: '$790',
+    },
+]
+export default Data;
